@@ -1,0 +1,2 @@
+google_clien_id = 452678751099-2lncep1hh4digp872u7ogripi6qpp0sp.apps.googleusercontent.com
+google_secret = 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
